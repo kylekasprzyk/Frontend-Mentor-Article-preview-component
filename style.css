@@ -138,10 +138,13 @@ h2 {
 
 .share {
     z-index: 3;
+    border: none;
+    border-radius: 50%;
+    padding: 0;
 }
 
 .share img {
-    padding: .5625rem .375rem;
+    padding: .5625rem .3125rem;
     width: 2rem;
     height: 2rem;
     background-color: hsl(var(--light-grayish-blue));
