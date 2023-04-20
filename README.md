@@ -19,7 +19,7 @@
   </a>
   
 ## Google Lighthouse
-![](https://img.shields.io/badge/Performance-96%25-brightgreen)
+![](https://img.shields.io/badge/Performance-99%25-brightgreen)
 ![](https://img.shields.io/badge/Accessibility-97%25-brightgreen)
 ![](https://img.shields.io/badge/Best%20Practices-100%25-brightgreen)
 ![](https://img.shields.io/badge/SEO-100%25-brightgreen)
