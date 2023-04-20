@@ -15,3 +15,9 @@ let showOrHide = function () {
         isClicked = true;
     }
 }
+
+window.addEventListener('load', () => {
+    setTimeout(() => {
+        document.querySelector("#loader").classList.add('loader-active');
+    }, 2500);
+});
