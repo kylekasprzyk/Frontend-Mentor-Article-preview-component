@@ -18,6 +18,10 @@ let showOrHide = function () {
 
 window.addEventListener('load', () => {
     setTimeout(() => {
-        document.querySelector("#loader").classList.add('loader-active');
+        const loader = document.querySelector("#loader");
+        loader.classList.add('loader-active');
+        setTimeout(() => {
+            loader.style.display = 'none';
+        }, 500);
     }, 2500);
 });
