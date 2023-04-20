@@ -3,7 +3,7 @@
   <h2>
     <a href="https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT"><strong>Frontend Mentor Challenge</strong></a>  </h2>
     <p>
-    <a href="#">My Solution</a>
+    <a href="https://kylekasprzyk.github.io/Frontend-Mentor-Article-preview-component/">My Solution</a>
   </p>
 </div>
 
@@ -37,7 +37,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 ## Links
 
 - [Solution URL](#)
-- [Live Site URL](#)
+- [Live Site URL](https://kylekasprzyk.github.io/Frontend-Mentor-Article-preview-component/)
 
 ## Built with
 
