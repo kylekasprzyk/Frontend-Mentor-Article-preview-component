@@ -219,6 +219,12 @@ footer {
     color: hsl(var(--light-grayish-blue));
 }
 
+@media screen and (min-width:375px) {
+    body {
+        overflow: hidden;
+    }
+}
+
 @media screen and (min-width:500px) {
     .article-component {
         margin-left: auto;
@@ -227,6 +233,7 @@ footer {
 }
 
 @media screen and (min-width:880px) {
+
     .article-component {
         display: flex;
         max-width: 45.625rem;
